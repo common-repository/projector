@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: msk-projector 0.1\n"
+"POT-Creation-Date: 2013-12-11 12:53+0100\n"
+"PO-Revision-Date: 2013-12-11 12:54+0100\n"
+"Last-Translator: Mosaika.fr <bonjour@mosaika.fr>\n"
+"Language-Team: Mosaika <bonjour@mosaika.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;_x;esc_attr_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../msk-projector-functions.php:110
+#: ../classes/post-types/class-msk-projector-post_type.php:135
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../msk-projector-functions.php:111
+msgid "Submit"
+msgstr "Envoyer"
+
+#: ../msk-projector-functions.php:113
+msgid "Invalid password. Please try again."
+msgstr "Mot de passe invalide. Veuillez réessayer."
+
+#: ../classes/class-msk-projector-settings.php:41
+msgid "Settings"
+msgstr "Options"
+
+#: ../classes/class-msk-projector-settings.php:55
+msgid "Global settings"
+msgstr "Options générales"
+
+#: ../classes/class-msk-projector-settings.php:58
+msgid "Number of item images"
+msgstr "Nombre d'images par item"
+
+#: ../classes/class-msk-projector-settings.php:62
+msgid "Display sidebar"
+msgstr "Afficher la sidebar"
+
+#: ../classes/class-msk-projector-settings.php:66
+msgid "Enable Zoom"
+msgstr "Activer le zoom"
+
+#: ../classes/class-msk-projector-settings.php:73
+msgid "Message settings"
+msgstr "Réglages des messages"
+
+#: ../classes/class-msk-projector-settings.php:76
+msgid "Before password text"
+msgstr "Texte avant mot de passe"
+
+#: ../classes/class-msk-projector-settings.php:80
+msgid "Password error message"
+msgstr "Message d'erreur si mot de passe incorrect"
+
+#: ../classes/class-msk-projector-settings.php:87
+msgid "Advanced controls"
+msgstr "Contrôles avancés"
+
+#: ../classes/class-msk-projector-settings.php:88
+msgid "Load plugin CSS"
+msgstr "Charger le CSS du plugin"
+
+#: ../classes/class-msk-projector-settings.php:98
+msgid "Set the global behaviour of the Projector plugin."
+msgstr "Définissez les réglages généraux du plugin Projector."
+
+#: ../classes/class-msk-projector-settings.php:102
+msgid "Define the multiple text messages displayed by the plugin."
+msgstr "Définissez les divers messages qui sont affichés par le plugin."
+
+#: ../classes/class-msk-projector-settings.php:106
+msgid ""
+"You have a large level of control with the Projector plugin. Note that if "
+"you specify different CSS classes to elements, default styling will stop "
+"working."
+msgstr ""
+"Un contrôle relativement vaste est accordé aux utilisateurs avancés. "
+"Veuillez noter que si vous attribuer d'autres classes CSS aux éléments, les "
+"styles CSS n'auront plus d'effets."
+
+#: ../classes/class-msk-projector-settings.php:107
+#, php-format
+msgid ""
+"If you disable the plugin CSS, you can always grab a copy of the <a href=\"%s"
+"\" target=\"_blank\">.css</a> or <a href=\"%s\" target=\"_blank\">.scss</a> "
+"file to easily customize styles."
+msgstr ""
+"Si vous désactiver les CSS du plugin, vous pouvez toujours utiliser le "
+"fichier <a href=\"%s\" target=\"_blank\">CSS</a> ou <a href=\"%s\" target="
+"\"_blank\">SASS</a> du plugin comme base de vos personnalisations."
+
+#: ../classes/class-msk-projector-settings.php:118
+msgid ""
+"How many images would you like to be able to upload <strong>at most</strong> "
+"per WIP item ?"
+msgstr ""
+"Combien d'images voudriez-vous afficher <strong>au maximum</strong> pour "
+"chaque iem dans le back-end ?"
+
+#: ../classes/class-msk-projector-settings.php:125
+msgid "Display your theme sidebar on WIP pages."
+msgstr "Afficher la sidebar de votre thème sur les pages WIP."
+
+#: ../classes/class-msk-projector-settings.php:132
+msgid "Enable zoom effect with slimbox2 (a lightbox-like jQuery plugin)."
+msgstr ""
+"Activer l'effet de zoom lors d'un clic sur une image (utilise slimbox2, un "
+"plugin lightbox jQuery)."
+
+#: ../classes/class-msk-projector-settings.php:139
+msgid ""
+"This text is displayed before the password field on protected WIP pages. "
+"<small>HTML is allowed !</small>"
+msgstr ""
+"Ce texte est affiché avant le champ de mot de passe sur les pages WIP "
+"protégées. <small>Les balises HTML sont autorisées !</small>"
+
+#: ../classes/class-msk-projector-settings.php:146
+msgid ""
+"This is the error message displayed if the password is incorrect. "
+"<small>HTML is allowed !</small>"
+msgstr ""
+"Ceci est le message d'erreur affiché si le mot de passe est incorrect. "
+"<small>Les balises HTML sont autorisées !</small>"
+
+#: ../classes/class-msk-projector-settings.php:153
+msgid ""
+"Load the Projector plugin CSS. Uncheck this if you want to overwrite styling "
+"with your own CSS."
+msgstr ""
+"Charger le CSS du plugin Projector. Décochez ceci si vous souhaitez utiliser "
+"votre propre CSS."
+
+#: ../classes/class-msk-projector-settings.php:183
+msgid "Projector settings"
+msgstr "Options du plugin Projector"
+
+#: ../classes/class-msk-projector-settings.php:190
+msgid "Save Settings"
+msgstr "Enregistrer"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:44
+#: ../classes/post-types/class-msk-projector-post_type.php:45
+#: ../classes/post-types/class-msk-projector-post_type.php:49
+#: ../classes/post-types/class-msk-projector-post_type.php:51
+#: ../classes/post-types/class-msk-projector-post_type.php:53
+#: ../classes/post-types/class-msk-projector-post_type.php:54
+msgid "WIP"
+msgstr "WIP"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:46
+#: ../inc/cuztom/classes/post_type.class.php:79
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:47
+#, php-format
+msgid "Add new %s"
+msgstr "Ajouter nouveau %s"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:47
+#: ../classes/post-types/class-msk-projector-post_type.php:48
+msgid "Work in Progress"
+msgstr "Work in Progress"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:48
+#: ../inc/cuztom/classes/post_type.class.php:81
+#: ../inc/cuztom/classes/taxonomy.class.php:106
+#, php-format
+msgid "Edit %s"
+msgstr "Editer %s"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:49
+#: ../inc/cuztom/classes/post_type.class.php:82
+#, php-format
+msgid "New %s"
+msgstr "Nouveau %s"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:50
+#: ../inc/cuztom/classes/post_type.class.php:78
+#: ../inc/cuztom/classes/taxonomy.class.php:103
+#, php-format
+msgid "All %s"
+msgstr "Tous les %s"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:50
+msgid "WIPs"
+msgstr "WIPs"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:51
+#: ../inc/cuztom/classes/post_type.class.php:83
+#, php-format
+msgid "View %s"
+msgstr "Voir %s"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:52
+msgid "Search %a"
+msgstr "Rechercher %a"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:52
+msgid "Works in Progress"
+msgstr "Works in Progress"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:53
+#: ../inc/cuztom/classes/post_type.class.php:86
+#, php-format
+msgid "No %s found"
+msgstr "Aucun %s trouvé"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:54
+#, php-format
+msgid "No %s Found In Trash"
+msgstr "Aucun %s trouvé dans la corbeille"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:56
+msgid "WIP's"
+msgstr "WIP's"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:84
+msgid "Title"
+msgstr "Titre"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:85
+msgid "Define a title here (optional)."
+msgstr "Définissez un titre (facultatif)."
+
+#: ../classes/post-types/class-msk-projector-post_type.php:94
+#: ../classes/post-types/class-msk-projector-post_type.php:193
+msgid "Image"
+msgstr "Image"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:95
+msgid "Upload your image here."
+msgstr "Uploadez une image ici."
+
+#: ../classes/post-types/class-msk-projector-post_type.php:102
+msgid "Description"
+msgstr "Description"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:103
+msgid "Describe your image here (optional)."
+msgstr "Décrivez votre ou vos image(s) ici (facultatif)."
+
+#: ../classes/post-types/class-msk-projector-post_type.php:109
+msgid "Images and descriptions"
+msgstr "Images et descriptions"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:121
+msgid "Data"
+msgstr "Info"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:130
+msgid "Project settings"
+msgstr "Réglages du projet"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:149
+msgid "Private <em>Work in Progress</em> link"
+msgstr "Lien privé de ce <em>Work in Progress</em>"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:151
+msgid "See WIP page"
+msgstr "Voir la page de ce WIP"
+
+#: ../classes/post-types/class-msk-projector-post_type.php:153
+msgid "Please publish this WIP project first."
+msgstr "Veuillez d'abord publier ce WIP."
+
+#: ../classes/post-types/class-msk-projector-post_type.php:230
+msgid "Enter WIP title here..."
+msgstr "Entrez le titre du WIP ici..."
+
+#: ../inc/cuztom/cuztom.php:201
+#: ../inc/cuztom/classes/fields/image.class.php:30
+msgid "Remove current image"
+msgstr "Supprimer cette image"
+
+#: ../inc/cuztom/cuztom.php:202 ../inc/cuztom/classes/fields/file.class.php:36
+msgid "Remove current file"
+msgstr "Supprimer ce fichier"
+
+#: ../inc/cuztom/classes/cuztom.class.php:157
+msgid "Use of a reserved term."
+msgstr "Utilisation d'un terme réservé."
+
+#: ../inc/cuztom/classes/field.class.php:163
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ../inc/cuztom/classes/meta.class.php:96
+#: ../inc/cuztom/classes/fields/bundle.class.php:46
+#: ../inc/cuztom/classes/fields/tab.class.php:51
+msgid "Add"
+msgstr "Ajouter"
+
+#: ../inc/cuztom/classes/post_type.class.php:75
+#: ../inc/cuztom/classes/post_type.class.php:76
+#: ../inc/cuztom/classes/post_type.class.php:77
+#: ../inc/cuztom/classes/post_type.class.php:96
+#: ../inc/cuztom/classes/taxonomy.class.php:100
+#: ../inc/cuztom/classes/taxonomy.class.php:101
+#: ../inc/cuztom/classes/taxonomy.class.php:110
+#: ../inc/cuztom/classes/taxonomy.class.php:118
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../inc/cuztom/classes/post_type.class.php:80
+#: ../inc/cuztom/classes/taxonomy.class.php:108
+#, php-format
+msgid "Add New %s"
+msgstr "Ajouter nouveau %s"
+
+#: ../inc/cuztom/classes/post_type.class.php:84
+#, php-format
+msgid "%s Archive"
+msgstr "Archive %s"
+
+#: ../inc/cuztom/classes/post_type.class.php:85
+#: ../inc/cuztom/classes/taxonomy.class.php:102
+#, php-format
+msgid "Search %s"
+msgstr "Rechercher %s"
+
+#: ../inc/cuztom/classes/post_type.class.php:87
+#, php-format
+msgid "No %s found in trash"
+msgstr "Aucun %s trouvé dans la corbeille"
+
+#: ../inc/cuztom/classes/post_type.class.php:88
+#, php-format
+msgid "%s Parent"
+msgstr "%s parent"
+
+#: ../inc/cuztom/classes/taxonomy.class.php:104
+#, php-format
+msgid "Parent %s"
+msgstr "Parent %s"
+
+#: ../inc/cuztom/classes/taxonomy.class.php:105
+#, php-format
+msgid "Parent %s:"
+msgstr "Parent %s :"
+
+#: ../inc/cuztom/classes/taxonomy.class.php:107
+#, php-format
+msgid "Update %s"
+msgstr "Mettre à jour %s"
+
+#: ../inc/cuztom/classes/taxonomy.class.php:109
+#, php-format
+msgid "New %s Name"
+msgstr "Nouveau nom %s"
+
+#: ../inc/cuztom/classes/taxonomy.class.php:176
+#: ../inc/cuztom/classes/meta/meta_box.class.php:159
+msgid "Date"
+msgstr "Date"
+
+#: ../inc/cuztom/classes/taxonomy.class.php:233
+#, php-format
+msgid "Show all %s"
+msgstr "Voir tous les %s"
+
+#: ../inc/cuztom/classes/fields/bundle.class.php:81
+#: ../inc/cuztom/classes/fields/bundle.class.php:134
+#: ../inc/cuztom/classes/fields/bundle.class.php:181
+msgid "This input type doesn't support the bundle functionality (yet)."
+msgstr ""
+
+#: ../inc/cuztom/classes/fields/file.class.php:35
+msgid "Select file"
+msgstr "Choisir un fichier"
+
+#: ../inc/cuztom/classes/fields/image.class.php:29
+msgid "Select image"
+msgstr "Choisir une image"
+
+#: ../inc/cuztom/classes/fields/yesno.class.php:17
+msgid "Yes"
+msgstr "Oui"
+
+#: ../inc/cuztom/classes/fields/yesno.class.php:20
+msgid "No"
+msgstr "Non"
